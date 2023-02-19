@@ -1,0 +1,56 @@
+body {
+    background-color: #cee5d0;
+  }
+  .body-center {
+    margin: 0 auto;
+    text-align: center;
+    width: 960px;
+    list-style-position: inside;
+  }
+  .başlik-1 {
+    font-size: 30px;
+    color: #ea9d6e;
+  }
+  .başlik-2 ul {
+    list-style-type: none;
+  }
+  .başlik-2 ul li {
+    margin: 10px;
+    display: inline;
+  }
+  .başlik-3 {
+    font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.475);
+    color: #94b49f;
+    border-radius: 5px;
+  }
+  .anasayfa-sari-bşlk {
+    font-size: 20px;
+    color: #ea9d6e;
+  }
+  img {
+    margin-top: 5px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+  }
+  .resim-açiklama {
+    font-size: 20px;
+    display: column;
+  
+    color: #fcf8e8;
+    background-color: #94b49f;
+    border: 1px solid #ea9d6e;
+  }
+  .hakkimizda {
+    background-color: #ea9e6eb8;
+    border: 2px solid #ffff;
+  }
+  .hakkimizda-sri-bslk {
+    font-size: 20px;
+    color: rgb(150, 150, 41);
+    text-align: left;
+  }
+  .hakkimizda-sri-bslk-p {
+    color: rgba(0, 0, 0, 0.331);
+  }
